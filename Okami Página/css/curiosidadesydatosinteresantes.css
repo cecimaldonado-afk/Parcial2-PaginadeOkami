@@ -1,0 +1,55 @@
+body {
+    background-image: url(../image/curiosidades-y-datos-interesantes.webp);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    margin: 0;
+}
+.contenido-izquierdo {
+    margin-bottom: 10px;
+    margin-left: 10px;
+   
+}
+.contenido-izquierdo p {
+     background-color: rgb(239, 220, 202);
+     border-radius: 15px;
+}
+.contenido-izquierdo h2 {
+     background-color: rgb(239, 220, 202);
+     border-radius: 15px;
+}
+.contenido-izquierdo h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
+.contenido-izquierdo h1 {
+   background-color: black;
+    color: white;
+    border-radius: 15px;
+
+   
+}
+.contenido-derecho {
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.contenido-derecho p {
+     background-color: rgb(239, 220, 202);
+     border-radius: 15px;
+}
+.contenido-derecho h2 {
+     background-color: rgb(239, 220, 202);
+     border-radius: 15px;
+}
+.energía-solar {
+height: 50px;
+  
+}
+

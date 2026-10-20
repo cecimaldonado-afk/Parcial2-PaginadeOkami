@@ -1,0 +1,117 @@
+body {
+    background-image: url(../image/Sinopsis-y-análisis-del-juego.webp);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    margin: 0px;
+}
+.contenido-superior h1 {
+background-color: rgb(230, 42, 42);
+
+    color: white;
+    border-radius: 15px;
+}
+.contenido-central h1 {
+background-color: rgb(230, 42, 42);
+
+    color: white;
+    border-radius: 15px;
+}
+.contenido-central-inferior h1 {
+background-color: rgb(230, 42, 42);
+
+    color: white;
+    border-radius: 15px;
+}
+.contenido-inferior h1 {
+background-color: rgb(230, 42, 42);
+
+    color: white;
+    border-radius: 15px;
+}
+.contenido-superior {
+    margin-top: 10PX;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+.contenido-superior P {
+    padding: 5px;
+     background-color: rgb(239, 220, 202);
+     border-radius: 15px;
+}
+.primera-imagen {
+     width: 20%;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 03px;
+    margin-right: 10px;
+    object-fit: cover;
+    background-position: center ;
+    border-radius: 15px;
+}
+.segunda-imagen {
+     width: 20%;
+    height: 310px;
+    margin-top: 10px;
+    margin-left: 03px;
+    margin-right: 10px;
+    object-fit: cover;
+    background-position: center ;
+    border-radius: 15px;
+}
+.tercera-imagen {
+     width:30%;
+    height: px;
+    margin-top: 10px;
+    margin-left: 03px;
+    margin-right: 10px;
+    object-fit: cover;
+    background-position: center ;
+    border-radius: 15px;
+}
+.cuarta-imagen {
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 03px;
+    margin-right: 5px;
+    object-fit: contain;
+    background-position: center ;
+    border-radius: 15px;
+}
+.contenido-central{
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+.contenido-central p {
+    margin-bottom: 15px;
+    margin-left: 10px;
+     background-color: rgb(239, 220, 202);
+     border-radius: 15px;
+}
+.contenido-central-inferior {
+   margin-bottom: 5px;
+    margin-left: 10px; 
+}
+.contenido-central-inferior p {
+   background-color: rgb(239, 220, 202);
+     border-radius: 15px;
+}
+.contenido-inferior{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.contenido-inferior p {
+padding: 5px;
+ background-color: rgb(239, 220, 202);
+     border-radius: 15px;
+}
+
+.contenido-inferior li {
+    padding: 5px;
+}

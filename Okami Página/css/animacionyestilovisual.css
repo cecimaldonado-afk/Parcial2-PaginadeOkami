@@ -1,0 +1,69 @@
+body {
+    background-image: url(../image/Animación-y-estilo-visual.webp);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    margin: 0px;
+}
+.contenido-superior {
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+.contenido-superior P {
+    padding: 5px;
+}
+.contenido-superior img {
+     width: 50%;
+    height: 310px;
+    margin-top: 10px;
+    margin-left: 03px;
+    margin-right: 10px;
+    object-fit: cover;
+    background-position: center ;
+    border-radius: 15px;
+}
+.contenido-central{
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+.contenido-central p {
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+.contenido-central img {
+     width: 15%;
+    height: 220px;
+    margin-top: 10px;
+    margin-left: 03px;
+    margin-right: 10px;
+    object-fit: cover;
+    background-position: center ;
+    border-radius: 15px;
+}
+.contenido-inferior{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.contenido-inferior p {
+padding: 5px;
+}
+.contenido-inferior img {
+     width: 15%;
+    height: 220px;
+    min-height: 50vh;
+    margin-top: 10px;
+    margin-left: 03px;
+    margin-right: 10px;
+    object-fit: cover;
+    background-position: center 30%;
+    border-radius: 15px;
+}
+.contenido-inferior li {
+    padding: 5px;
+}

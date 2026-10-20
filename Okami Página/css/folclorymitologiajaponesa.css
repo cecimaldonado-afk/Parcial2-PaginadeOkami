@@ -1,0 +1,95 @@
+body {
+    background-color: #dfdedb;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    margin: 0px;
+}
+.contenido-superior {
+    margin-top: 10PX;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+.contenido-superior P {
+    padding: 5px;
+}
+.primera-imagen {
+     width: 50%;
+    height: 210px;
+    margin-top: 10px;
+    margin-left: 03px;
+    margin-right: 10px;
+    object-fit: contain;
+    background-position: center ;
+    border-radius: 15px;
+}
+.segunda-imagen {
+        width: 25%;
+    height: 310px;
+    margin-top: 10px;
+    margin-left: 03px;
+    margin-right: 10px;
+    object-fit: cover;
+    background-position: center ;
+    border-radius: 15px;
+}
+.contenido-central{
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+.contenido-central p {
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+.tercera-imagen {
+     width: 40%;
+    height: 450px;
+    margin-top: 10px;
+    margin-left: 03px;
+    margin-right: 10px;
+    object-fit: cover;
+    background-position: center ;
+    border-radius: 15px;
+}
+.cuarta-imagen {
+    width: 25%;
+    height: 310px;
+    margin-top: 10px;
+    margin-left: 03px;
+    margin-right: 10px;
+    object-fit: cover;
+    background-position: center ;
+    border-radius: 15px;
+}
+.contenido-inferior{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.contenido-inferior p {
+padding: 5px;
+}
+.quinta-imagen {
+    width: 25%;
+    height: 310px;
+    margin-top: 10px;
+    margin-left: 03px;
+    margin-right: 10px;
+    object-fit: cover;
+    background-position: center 30% ;
+    border-radius: 15px;
+}
+.sexta-imagen {
+    width: 25%;
+    height: 310px;
+    margin-top: 10px;
+    margin-left: 03px;
+    margin-right: 10px;
+    object-fit: cover;
+    background-position: center ;
+    border-radius: 15px;
+}
+.contenido-inferior li {
+    padding: 5px;
+}
