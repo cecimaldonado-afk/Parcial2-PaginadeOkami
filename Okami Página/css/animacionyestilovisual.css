@@ -60,7 +60,7 @@ body {
     margin-bottom: 0px;
 }
 .subrayado-1 {
-    width: 90%;
+    width: 100%;
     height: 20px;
 }
 .textos-de-la-columna-izq h2 {
@@ -93,7 +93,7 @@ body {
   padding: 5px ;
 }
 .subrayado-2 {
-    width: 90%;
+    width: 55%;
     height: 20px;
     margin-bottom: 8px;
 }
@@ -102,7 +102,7 @@ body {
     border-radius: 15px;
 }
 .imagen-inferior-der {
-    width: 100%;
+    width: 97%;
     height: 310px;
     min-height: 60vh;
     margin-top: 30px;
