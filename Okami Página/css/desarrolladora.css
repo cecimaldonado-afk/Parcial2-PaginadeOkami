@@ -4,14 +4,14 @@ box-sizing : border-box;
 
 body {
     background-image: url("../image/Desarrolladora.webp");
-    background-size: 81%;
+    background-size: 86%;
     background-repeat: no-repeat;
     background-position: left top;
     background-color: #dfdedb;
 }
 .pagina-juego {
     display: grid;
-    grid-template-columns: 40% 60%;
+    grid-template-columns: 42% 60%;
     width: 90%;
     margin: 30px auto;
 }
@@ -27,7 +27,7 @@ body {
 /* CLOVER STUDIO Y CAPCOM */
 
 .contenido-superior > h2 {
-    border: 0px solid black;
+    
     padding: 10px;
     margin: 0;
 }
@@ -36,7 +36,7 @@ body {
 /* TEXTO */
 
 .contenido-superior > p {
-    border: 0px solid black;
+    
     padding: 20px;
     margin: 0 0 20px 0;
 }
@@ -48,6 +48,17 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 15px;
+}
+
+
+.titulo-principal h1{
+    margin: 0;
+    padding: 0;
+    line-height: 0.3;
+    
+}
+.texto-rojo {
+color: rgb(230, 42, 42);
 }
 
 .contenido-central img {
@@ -69,7 +80,7 @@ body {
 /* SUBTÍTULO AL LADO DEL TÍTULO */
 
 .contenido-central h3 {
-    border: 0px solid black;
+    
     padding: 0px;
     margin: 0 0 15px 0;
 }
@@ -85,7 +96,7 @@ body {
 }
 
 .contenido-inferior h3 {
-    border: 0px solid black;
+    
     padding: 0px;
     
     margin: 0 0 15px 0;
@@ -93,19 +104,3 @@ body {
 }
 
 
-/* VOLVER AL HOME */
-
-.boton-home {
-    display: block;
-    width: 180px;
-    padding: 12px;
-    margin: 20px auto;
-    
-
-    background-color: #ee005c;
-    color: white;
-
-    text-align: center;
-    text-decoration: none;
-    border-radius: 10px;
-}
