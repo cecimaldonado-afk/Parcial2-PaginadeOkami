@@ -72,6 +72,20 @@ body {
 .botones-superiores .crear-cuenta {
     background-color: #ee005c;
 }
+.boton-contacto {
+     padding: 8px 20px;
+    background-color: white;
+    color: #ee005c;
+     border: 1px solid #ee005c;
+    border-radius: 5px;
+
+    justify-content: center;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+
+    cursor: pointer;
+}
 
 .boton-home {
     display: block;
